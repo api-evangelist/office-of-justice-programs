@@ -1,0 +1,54 @@
+{
+    "name": "Office of Justice Programs",
+    "description": "<p>The Office of Justice Programs (OJP) is an agency of the United States Department of Justice that focuses on crime prevention through research and development, assistance to state and local law enforcement and criminal justice agencies through grants, and assistance to crime victims.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/320px-US-OfficeOfJusticePrograms-Seal.svg.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "new"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/office-of-justice-programs\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Office of Justice Programs",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/320px-US-OfficeOfJusticePrograms-Seal.svg.png",
+            "humanURL": "http:\/\/data.ojp.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/office-of-justice-programs-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/office-of-justice-programs-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/data.ojp.gov\/developer\/"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/data.ojp.gov"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/ojp.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Office_of_Justice_Programs"
+        }
+    ]
+}
